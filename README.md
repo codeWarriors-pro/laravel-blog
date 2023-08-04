@@ -6,7 +6,7 @@ Laravel v9.14.1 Blog application with Tailwind CSS v3.0.18
 
 Setting up your development environment on your local machine :
 ```bash
-$ git clone https://github.com/majidmohammadpanah/laravel-blog.git
+$ git clone https://github.com/mudaserrasheed/laravel-blog.git
 cd laravel-blog
 rename .env.example .env
 composer install
